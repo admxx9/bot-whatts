@@ -1,0 +1,53 @@
+[
+  {
+    "hora": "22:03",
+    "PUXAR": []
+  },
+  {
+    "hora": "22:04",
+    "PUXAR": []
+  },
+  {
+    "hora": "23:00",
+    "PUXAR": []
+  },
+  {
+    "hora": "23:03",
+    "PUXAR": [
+      {
+        "idgp": "120363145462958548@g.us",
+        "avisou": false
+      }
+    ]
+  },
+  {
+    "hora": "23:07",
+    "PUXAR": []
+  },
+  {
+    "hora": "23:11",
+    "PUXAR": []
+  },
+  {
+    "hora": "23:30",
+    "PUXAR": [
+      {
+        "idgp": "120363145462958548@g.us",
+        "avisou": false
+      }
+    ]
+  },
+  {
+    "hora": "23:jsjs30jsjsjsi",
+    "PUXAR": []
+  },
+  {
+    "hora": "01:36",
+    "PUXAR": [
+      {
+        "idgp": "120363145462958548@g.us",
+        "avisou": false
+      }
+    ]
+  }
+]
